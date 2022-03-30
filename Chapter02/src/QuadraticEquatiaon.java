@@ -3,7 +3,7 @@ public class QuadraticEquatiaon {
 	public static void main(String[] agrs){
 		
 		double b,c;
-		  b= -3.0;
+		  b= -4.0;
 		  c= 2.0;
 		  
 		double answer1,answer2;
